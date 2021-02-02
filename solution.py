@@ -28,5 +28,5 @@ def welcome_assignment_answers(question):
 
 if __name__ == "__main__":
     #use this space to debug and verify that the program works
-    #debug_question = "What is the MD5 hashing value to the following message: 'NYU Computer Networking' - Use MD5 hash generator and use the answer in your code"
-    #print(welcome_assignment_answers(debug_question))
+    debug_question = "What is the MD5 hashing value to the following message: 'NYU Computer Networking' - Use MD5 hash generator and use the answer in your code"
+    print(welcome_assignment_answers(debug_question))
